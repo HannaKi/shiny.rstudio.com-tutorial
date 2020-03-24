@@ -1,0 +1,12 @@
+name: part-1-code
+title: part-1-code
+username:
+account: hrkshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1988578
+bundleId: 2918944
+url: https://hrkshiny.shinyapps.io/part-1-code/
+when: 1585068522.59591
+asMultiple: FALSE
+asStatic: FALSE
